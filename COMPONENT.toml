@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-drone"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-drone component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
